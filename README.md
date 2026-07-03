@@ -1,5 +1,5 @@
-# Hi 👋, I'm Kaleb Torres
- 
+# Hi 👋, my name is Kaleb 
+
 ### PhD in Materials Science ➜ Full-Stack Developer (Java · Spring Boot · React)
  
 I transitioned from academic research (Materials Science & Engineering, UNAM) into
@@ -54,20 +54,20 @@ Full-stack minimarket platform built as team Scrum Master over 6 sprints.
 Spring Boot REST API + React frontend, deployed on AWS EC2 with NGINX
 reverse proxy and JWT authentication.
  
-### 🏀 [FYKA SPORT](https://github.com/rtkaleb)
+### 🏀 [FYKA SPORT](https://github.com/rtkaleb/FYKA-Sport)
 Sports store landing page — vanilla HTML/CSS/JS — built with a 4-sprint
 Scrum plan and 34 user stories as part of a bootcamp team project.
 
-### 🏀 [MercArt](https://github.com/rtkaleb)
+### 🏀 [MercArt](https://github.com/rtkaleb/Portfolio)
 Full e-commerce web application built collaboratively with a team of
 25 developers using Scrum methodology. Deployed on Vercel. 
  
 ### 💻 [React Portfolio](https://github.com/rtkaleb)
 Personal developer portfolio built with React + Vite, deployed on Netlify.
 
-### 🏀 [MercArt](https://github.com/rtkaleb)
-Full e-commerce web application built collaboratively with a team of
-25 developers using Scrum methodology. Deployed on Vercel. 
+### 🏀 [Backend Projects](https://github.com/rtkaleb)
+4 end-to-end full-stack projects built with Java, Spring Boot and React. 
+Unit testing with JUnit/Jest and coverage measured with JaCoCo.
  
 ---
  
