@@ -6,13 +6,12 @@ I transitioned from academic research (Materials Science & Engineering, UNAM) in
 software development through intensive full-stack bootcamps. I bring a
 research-driven, detail-oriented approach to building clean, well-tested applications.
  
-- 🔭 Currently job-hunting for **Junior Developer** roles (frontend & full-stack)
+- 🔭 Currently job-hunting for **Junior Developer** roles (frontend, backend & full-stack)
 - 🌱 Recently completed the **Generation México Java Full-Stack Developer** program
   (Spring Boot, JWT security, JPA, React, AWS deployment)
-- 🎓 PhD in progress, Materials Science & Engineering — Instituto de Investigaciones
-  en Materiales, UNAM
+- 🎓 PhD in progress, Materials Science & Engineering — Institute of Materials Research, UNAM
 - 💼 Based in Mexico City (CDMX)
-- 🗣️ Bilingual: Spanish / English
+- 🗣️ Bilingual: Spanish / English 
 - 📫 Reach me: **rtkaleb@gmail.com** · [LinkedIn](https://linkedin.com/in/kaleb-torres)
 ---
  
@@ -58,9 +57,17 @@ reverse proxy and JWT authentication.
 ### 🏀 [FYKA SPORT](https://github.com/rtkaleb)
 Sports store landing page — vanilla HTML/CSS/JS — built with a 4-sprint
 Scrum plan and 34 user stories as part of a bootcamp team project.
+
+### 🏀 [MercArt](https://github.com/rtkaleb)
+Full e-commerce web application built collaboratively with a team of
+25 developers using Scrum methodology. Deployed on Vercel. 
  
 ### 💻 [React Portfolio](https://github.com/rtkaleb)
 Personal developer portfolio built with React + Vite, deployed on Netlify.
+
+### 🏀 [MercArt](https://github.com/rtkaleb)
+Full e-commerce web application built collaboratively with a team of
+25 developers using Scrum methodology. Deployed on Vercel. 
  
 ---
  
