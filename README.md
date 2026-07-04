@@ -1,4 +1,4 @@
-# Hi 👋, my name is Kaleb 
+# Hi 👋, this is Kaleb 
 
 ### PhD in Materials Science ➜ Full-Stack Developer (Java · Spring Boot · React)
  
