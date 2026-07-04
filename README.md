@@ -2,17 +2,27 @@
 
 ### PhD in Materials Science ➜ Full-Stack Developer (Java · Spring Boot · React)
  
-I transitioned from academic research (Materials Science & Engineering, UNAM) into
-software development through intensive full-stack bootcamps. I bring a
-research-driven, detail-oriented approach to building clean, well-tested applications.
- 
-- 🔭 Currently job-hunting for **Junior Developer** roles (frontend, backend & full-stack)
-- 🌱 Recently completed the **Generation México Java Full-Stack Developer** program
-  (Spring Boot, JWT security, JPA, React, AWS deployment)
-- 🎓 PhD in progress, Materials Science & Engineering — Institute of Materials Research, UNAM
+I transitioned from scientific research into software engineering, bringing an analytical mindset, strong problem-solving skills, and attention to detail.
+
+I'm currently looking for **Junior Backend, Full-Stack or Software Engineer** opportunities where I can continue growing while building reliable and scalable applications.
+
+---
+
+## 🚀 About Me
+
+- 💼 Looking for Junior Software Developer opportunities (frontend, backend & full-stack)
+- 🌱 **Generation México Java Full-Stack Developer** Graduate (Spring Boot, JWT security, JPA, React, AWS deployment)
+- 🎓 PhD Candidate in Materials Science & Engineering — Institute of Materials Research, UNAM
+- ☕ Passionate about Java, Spring Boot and backend architecture
 - 💼 Based in Mexico City (CDMX)
-- 🗣️ Bilingual: Spanish / English 
-- 📫 Reach me: **rtkaleb@gmail.com** · [LinkedIn](https://linkedin.com/in/kaleb-torres)
+- 🗣️ Bilingual: Spanish / English
+
+📫 **Contact**
+  
+- [Portfolio](https://rtkaleb.netlify.app)
+- [LinkedIn](https://linkedin.com/in/kaleb-torres)
+- Email → **rtkaleb@gmail.com**
+
 ---
  
 ## 🛠️ Tech Stack
@@ -73,6 +83,11 @@ Unit testing with JUnit/Jest and coverage measured with JaCoCo.
  
 ## 📊 GitHub Stats
  
-![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtkaleb&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtkaleb&layout=compact)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rtkaleb&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtkaleb&layout=compact&theme=tokyonight"/>
+
+</p>
  
