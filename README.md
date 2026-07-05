@@ -40,6 +40,9 @@ I'm currently looking for **Junior Backend, Full-Stack or Software Engineer** op
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
  
 **Frontend**
  
@@ -68,16 +71,32 @@ reverse proxy and JWT authentication.
 Sports store landing page — vanilla HTML/CSS/JS — built with a 4-sprint
 Scrum plan and 34 user stories as part of a bootcamp team project.
 
-### 🏀 [MercArt](https://github.com/rtkaleb/Portfolio)
+### 🎨 [MercArt](https://github.com/WebDesignC)
 Full e-commerce web application built collaboratively with a team of
-25 developers using Scrum methodology. Deployed on Vercel. 
- 
-### 💻 [React Portfolio](https://github.com/rtkaleb)
-Personal developer portfolio built with React + Vite, deployed on Netlify.
+25 developers using Scrum methodology. Deployed on Vercel.
 
-### 🏀 [Backend Projects](https://github.com/rtkaleb)
-4 end-to-end full-stack projects built with Java, Spring Boot and React. 
-Unit testing with JUnit/Jest and coverage measured with JaCoCo.
+### 💻 [Personal Portfolio](https://github.com/rtkaleb/Portfolio) · [Live site](https://rtkaleb.netlify.app)
+Bilingual (EN/ES) developer portfolio built with vanilla HTML5, CSS3 and
+JavaScript — dark/light theme, scroll-reveal animations, and a live
+contact form powered by Formspree. Deployed on Netlify.
+
+### 📦 [Order Management System](https://github.com/rtkaleb/OrderManagementSystem)
+Backend service for e-commerce order processing: full CRUD REST endpoints,
+layered architecture, validation and Swagger documentation. Java, Spring
+Boot, PostgreSQL.
+
+### 🍽️ [Tattler API](https://github.com/rtkaleb/TattlerAPI-MongoDB)
+REST API for discovering restaurants, with search, filtering, sorting and
+pagination by location, cuisine, price and availability. Node.js, Express,
+MongoDB.
+
+### 💎 [Collectibles Store](https://github.com/rtkaleb/CollectiblesStoreWebApplication)
+REST-first marketplace for collectibles, with server-rendered pages and
+real-time price updates over WebSockets. Java, Spark.
+
+### ✅ [BookingMx — Unit Testing](https://github.com/rtkaleb/BookingMx-Software-Quality-Unit-Testing-Project)
+Automated unit testing across a Java reservations module and a JavaScript
+visualization module, keeping 90%+ code coverage. JUnit, Mockito, JaCoCo, Jest.
  
 ---
  
